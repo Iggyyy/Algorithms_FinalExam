@@ -60,24 +60,33 @@ string DecimalToHexx(int liczba)
 {
         if(liczba == 0) return "";
 
+        cout << liczba << '\n';
         string past = DecimalToHexx(liczba/16);
+        cout << past << '\n';
         int a = liczba%16;
-        cout<<liczba<<endl;
+
         if(a > 9 )
              past += (char)('A' + a-10);
         else
-             past += (char)a;
+             past += (char)(a + '0');
 
         return past;
 }
 
 int HexToDecimal(string liczba)
 {
+     /*
     int it = 0, sum = 0;
     for(int i = liczba.length()-1; i >= 0; i--)
     {
        sum += (int)liczba[i] * pow(16, it);
-
+       it++;
+    }*/
+    int sum = 0;
+    for (int i = 0; i < liczba.size(); i++) {
+        int dig = ( liczba[i] < 'A' ?  liczba[i] - '0' : liczba[i] - 'A' + 10);
+        sum *= 16;
+        sum += dig;
     }
     return sum;
 }
