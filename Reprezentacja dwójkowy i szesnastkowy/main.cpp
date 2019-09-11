@@ -62,7 +62,7 @@ string DecimalToHexx(int liczba)
 
         string past = DecimalToHexx(liczba/16);
         int a = liczba%16;
-
+        cout<<liczba<<endl;
         if(a > 9 )
              past += (char)('A' + a-10);
         else
@@ -71,6 +71,16 @@ string DecimalToHexx(int liczba)
         return past;
 }
 
+int HexToDecimal(string liczba)
+{
+    int it = 0, sum = 0;
+    for(int i = liczba.length()-1; i >= 0; i--)
+    {
+       sum += (int)liczba[i] * pow(16, it);
+
+    }
+    return sum;
+}
 
 
 
@@ -79,12 +89,15 @@ string DecimalToHexx(int liczba)
 int main()
 {
     int a,b,c;
+    string d;
     cin>>a;
 
     decimalToBinary(a);
     cin>>b;
     BinaryToDecimal(b);
     cin>>c;
-    cout<< DecimalToHexx(c);
+    cout<<DecimalToHexx(c);
+    cin>>d;
+    cout<<HexToDecimal(d);
 
 }
