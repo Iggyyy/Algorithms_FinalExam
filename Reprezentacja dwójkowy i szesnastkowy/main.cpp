@@ -75,13 +75,6 @@ string DecimalToHexx(int liczba)
 
 int HexToDecimal(string liczba)
 {
-     /*
-    int it = 0, sum = 0;
-    for(int i = liczba.length()-1; i >= 0; i--)
-    {
-       sum += (int)liczba[i] * pow(16, it);
-       it++;
-    }*/
     int sum = 0;
     for (int i = 0; i < liczba.size(); i++) {
         int dig = ( liczba[i] < 'A' ?  liczba[i] - '0' : liczba[i] - 'A' + 10);
