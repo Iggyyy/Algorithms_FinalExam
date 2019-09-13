@@ -18,6 +18,12 @@ long long power_recursive(long long base, long long upto)
 
 }
 
+int natural_sum(int n)
+{
+    if(n > 1) return n + natural_sum(n -1);
+    else return 1;
+}
+
 
 
 int main()
@@ -30,7 +36,13 @@ int main()
     cout<<"Power (base and power index): "<<endl;
     int b, p;
     cin>>b>>p;
-    cout<<power_recursive(b,p);
+    cout<<power_recursive(b,p)<<'\n';
+
+    cout<<"Natural number sum: "<<endl;
+    int c;
+    cin>>c;
+    cout<<natural_sum(c)<<'\n';
+
 
     return 0;
 }
