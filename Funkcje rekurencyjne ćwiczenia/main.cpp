@@ -26,6 +26,7 @@ int natural_sum(int n)
 
 
 
+
 int main()
 {
     cout<<"Factorial: "<<endl;
