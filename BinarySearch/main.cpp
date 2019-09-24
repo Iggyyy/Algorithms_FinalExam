@@ -10,7 +10,7 @@ int binarySearch(int x, int l, int r, vector<int> tablica)
 
     while(l<=r)
     {
-      int m = l + r /2;
+      int m = l + (r-l) /2;
 
       if(tablica[m] == x) return m;
 
@@ -22,6 +22,20 @@ int binarySearch(int x, int l, int r, vector<int> tablica)
 
     return -1;
 
+}
+int binarSearch(int x, int l, int r, vector<int> tab)
+{
+
+    while(l<=r)
+    {
+        int m = l +(r-l) /2 ;
+
+        if(tab[m] == x) return m;
+        if(tab[m] < x) l = m +1;
+        else r = m -1;
+
+    }
+    return -1;
 }
 
 
