@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569312305 source:c:\users\ignac\desktop\matinf\binarysearch\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<time.h>
+
