@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569527369 source:c:\users\ignac\desktop\matinf\schemat hornera\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
