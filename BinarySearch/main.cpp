@@ -39,6 +39,26 @@ int binarSearch(int x, int l, int r, vector<int> tab)
 }
 
 
+bool binaryPractice(int x, int l, int r, vector<int> tab)
+{
+
+    while(l<r)
+    {
+            int mid = l + (r-l) /2;
+
+            if(x>tab[mid])
+                l = mid +1;
+            else if (x<tab[mid])
+                r = mid - 1;
+            else
+                return true;
+
+
+    }
+    return false;
+}
+
+
 
 int main()
 {
@@ -58,6 +78,8 @@ int main()
     cout<<"WprowadŸ szukana liczbe"<<endl;
     int a;
     cin>>a;
+    cout<<"index in array: "<<binarySearch(a, 0, vect.size()-1, vect)<<'\n';
+
     cout<<"index in array: "<<binarySearch(a, 0, vect.size()-1, vect)<<'\n';
 
 
