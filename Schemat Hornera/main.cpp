@@ -25,6 +25,14 @@ int hornerINT(vector<int> wsp,int st, int x)
 	return x*horner(wsp,st-1,x)+wsp[st];
 }
 
+int hornerPractice(vector<int> wsp, int stopien, int x)
+{
+    if(stopien == 0)
+        return wsp[0];
+    return hornerPractice(wsp, stopien-1, x)*x + wsp[stopien];
+}
+
+
 int main()
 {
     vector<int> wsp;
@@ -41,7 +49,8 @@ int main()
     int x;
     cin>>x;
     cout<<horner(wsp,a,x)<<'\n';
-    cout<<hornerINT(wsp,a,x);
+    cout<<hornerINT(wsp,a,x)<<'\n';
+    cout<<hornerPractice(wsp,a,x)<<'\n';
 
     return 0;
 }
