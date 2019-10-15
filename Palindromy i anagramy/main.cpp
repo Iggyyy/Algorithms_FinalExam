@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <string>
 
 using namespace std;
 
@@ -15,26 +16,38 @@ void palindrom(string wyraz)
     cout<<pom<<endl;
 }
 
+bool czyPalind(string wyraz, string palind)
+{
+    if(wyraz.length() != palind.length()) return false;
+
+
+
+    for(int i =0; i<wyraz.length(); i++)
+    {
+      int j = wyraz.length()-1-i;
+      if(wyraz[j] != palind[i]) return false;
+    }
+
+    return true;
+
+
+}
+
 bool czyAnagram(string wyraz, string anag)
 {
-    bool fail = false;
+    vector<int> licz(126, 0);
 
-    if(wyraz.length() == anag.length())
-    {
-        for (int i = 0; i< wyraz.length(); i++)
-        {
-            bool cont = false;
-            for(int j = 0; j<wyraz.length(); j++)
-            {
-                if(wyraz[i] == anag[j]) cont = true ;
-            }
-            if(cont == false) fail = true;
-        }
+    if(wyraz.length() != anag.length()) return false;
 
-        if(fail == true) return false;
-        else return true;
-    }
-    else return false;
+    for(int i : wyraz)
+        licz[i]++;
+    for(int i : anag)
+        licz[i]--;
+    for(int i : licz)
+        if(i != 0) return false;
+    return true;
+
+
 
 }
 
@@ -44,7 +57,7 @@ bool czyAnagram(string wyraz, string anag)
 
 int main()
 {
-    string a, b, c;
+    string a, b, c, d, e;
     cout<<"String: "<<endl;
     cin>>a;
     palindrom(a);
@@ -54,9 +67,13 @@ int main()
     cout<<"2 string: "<<endl;
     cin>>c;
 
-    cout<<czyAnagram(b,c);
+    cout<<czyAnagram(b,c)<<'\n';
 
-
+    cout<<"Czy anagram string wyjœcia: "<<endl;
+    cin>>d;
+    cout<<"2 string: "<<endl;
+    cin>>e;
+    cout<<czyPalind(d,e);
 
     return 0;
 }
