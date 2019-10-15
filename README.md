@@ -10,8 +10,6 @@
   * Funkcje rekurencyjne
   * Pisanie algorytmów, lista kroków
   * Nww, nwd
-  * Palindromy
-  * Anagramy
   * Wyznaczanie liczb pierwszych
   * Sito erastotenesa
 #### 2. ALGORYTMY NA LICZBACH CAŁKOWITYCH
