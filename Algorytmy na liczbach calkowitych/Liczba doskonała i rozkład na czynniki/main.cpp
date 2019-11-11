@@ -12,6 +12,7 @@ bool czyDoskolnala(int liczba)
     for(int i = liczba-1; i>0; i--)
     {
         if(liczba % i == 0) sum+=i;
+        cout<<i<<endl;
     }
 
     if(sum == liczba) doskonala = true;
