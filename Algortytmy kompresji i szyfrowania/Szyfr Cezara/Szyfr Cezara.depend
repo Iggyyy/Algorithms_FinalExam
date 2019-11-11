@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573504381 source:c:\users\ignac\desktop\matinf\algortytmy kompresji i szyfrowania\szyfr cezara\main.cpp
+	<iostream>
+	<string.h>
+
