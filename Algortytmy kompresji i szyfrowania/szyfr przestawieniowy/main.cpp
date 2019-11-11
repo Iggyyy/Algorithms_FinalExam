@@ -55,23 +55,47 @@ void _kodowanie(char *napis)
 
 void kodowanie_jeden(char *napis)
 {
-    int first = -1;
+    bool first = false;
+    int _first;
+    int _index_first;
+
+    bool _pom = false;
     int pom;
+    int _swit;
 
 
     for(int i = 0; i< strlen(napis); i++)
     {
-        if(first < 0 && czySpolgloska(napis[i]) == false)
-            first = i;
-        if(czySpolgloska(napis[i]) == false)
+        if(first== false && czySpolgloska(napis[i]) == true)
+            {
+                _index_first = i;
+                first = true;
+                _first = napis[i];
+            }
+        if(czySpolgloska(napis[i]) == true)
         {
-
+            if(_pom == false)
+            {
+                _pom = true;
+                pom = napis[i];
+            }
+            else
+            {
+                napis[i] = pom;
+                _swit = napis[i];
+                _pom = false;
+            }
         }
+
+
 
     }
 
+    napis[_index_first] = pom;
+
 
 }
+
 
 
 
@@ -96,13 +120,11 @@ int main()
 
     cin.getline(b, 256);
 
-    _kodowanie(b);
+    kodowanie_jeden(b);
 
     cout<<"Zaszyfrowany: " <<b<<endl;
 
-    _kodowanie(b);
 
-    cout<<"Odszyfrowany: "<<b<<endl;
 
 
     return 0;
