@@ -3,9 +3,9 @@
 using namespace std;
 
 
-int n_tyWyrazFibonacci(int n)
+long long n_tyWyrazFibonacci(long long n)
 {
-    vector<int> fibo;
+    vector<long long> fibo;
     fibo.push_back(0);
     fibo.push_back(1);
 
