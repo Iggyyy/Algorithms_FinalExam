@@ -1,0 +1,32 @@
+a)
+AA2005	Charlie i fabryka czekolady	
+AC2005	Kevin sam w domu	
+AB2005	Madagaskar	
+BD2005	Opowiesci z Narnii: Lew, czarownica i stara szafa
+
+b)
+horror 97	
+
+c)
+MIesi¹c	Ile_filmow
+6	24
+7	31
+8	31
+9	37
+10	45
+11	48
+12	58
+
+d)
+Bart³omiej Wojciechowski 77
+
+e)
+AF2008
+AX2000
+AX2007
+AY2000
+AY2007
+CE2002
+CF2004
+CG2002
+DE1999
