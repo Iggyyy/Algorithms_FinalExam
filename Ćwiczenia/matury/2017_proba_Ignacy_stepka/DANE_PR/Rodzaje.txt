@@ -1,8 +1,0 @@
-﻿"id_rodzaju";"rodzaj_org"
-1;"organizacje, stowarzyszenia, fundacje"
-2;"organizacje i instytucje federacyjne"
-3;"organizacje i instytucje wyznaniowe"
-4;"instytucje społeczno-kulturalne i oświatowe"
-5;"instytucje kultury / pamięci"
-6;"instytucje i podmioty gospodarcze"
-7;"media i rynek książki"

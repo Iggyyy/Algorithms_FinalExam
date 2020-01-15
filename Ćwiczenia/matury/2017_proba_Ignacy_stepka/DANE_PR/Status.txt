@@ -1,4 +1,0 @@
-﻿"id_statusu";"opis"
-1;"organizacja / instytucja prowadzi działalność"
-2;"organizacja / instytucja zakończyła lub zawiesiła działalność"
-3;"brak informacji o działalności organizacji / instytucji"
