@@ -1,0 +1,100 @@
+"SmbTowaru";"Producent";"Procesor";"Matryca";"SystemOperacyjny";"Cena"
+"01FA";"Fujitsu";"AMD Sempron";15,60;"Vista Home Premium";2214,50
+"02FI";"Fujitsu";"Intel Core 2 Duo";15,60;"Windows 7 Home Premium";2105,22
+"03LA";"Lenovo";"AMD Athlon";15,60;"Vista Business";2566,93
+"04PA";"Philips";"AMD Athlon";15,60;"Windows 7 Home Premium";3030,21
+"05LI";"Lenovo";"Intel Core i3";17,30;"Windows 7 Home Premium";2217,65
+"06SI";"Samsung";"Intel Core 2 Duo";15,60;"Windows 7 Home Premium";2483,08
+"07LA";"Lenovo";"AMD Sempron";15,60;"Vista Business";2139,00
+"08AA";"Acer";"AMD Phenom II";17,30;"Windows 7 Professional";2241,75
+"09FI";"Fujitsu";"Intel Core i3";15,60;"Vista Home Premium";2144,01
+"10DA";"Dell";"AMD Sempron";15,40;"Windows 7 Home Premium";1526,50
+"11FA";"Fujitsu";"AMD Sempron";15,40;"Windows 7 Home Premium";2408,00
+"12AA";"Acer";"AMD Sempron";15,60;"Windows 7 Professional";2768,50
+"13HI";"HP";"Intel Core i7";15,40;"Vista Home Premium";3612,50
+"14SA";"Samsung";"AMD Sempron";15,40;"Windows 7 Professional";2749,50
+"15LI";"Lenovo";"Intel Core 2 Duo";17,30;"bez systemu";3248,70
+"16SA";"Samsung";"AMD Phenom II";15,60;"bez systemu";2221,77
+"17HI";"HP";"Intel Core i7";15,60;"Windows 7 Professional";3534,00
+"18AA";"Acer";"AMD Phenom II";17,30;"Vista Business";3151,29
+"19DI";"Dell";"Intel Core 2 Duo";15,60;"Windows 7 Home Premium";2078,23
+"20SI";"Samsung";"Intel Core i7";15,40;"Vista Home Premium";3442,50
+"21PI";"Philips";"Intel Core 2 Duo";15,40;"bez systemu";1724,25
+"22FA";"Fujitsu";"AMD Sempron";17,30;"Windows 7 Home Premium";1927,00
+"23FA";"Fujitsu";"AMD Athlon";17,30;"Vista Home Premium";1691,28
+"24FA";"Fujitsu";"AMD Sempron";17,30;"Windows 7 Home Premium";2890,50
+"25PI";"Philips";"Intel Core 2 Duo";15,60;"Vista Business";2776,49
+"26HA";"HP";"AMD Athlon";17,30;"Vista Business";2049,18
+"27AI";"Asus";"Intel Core i7";15,60;"bez systemu";4606,50
+"28HI";"HP";"Intel Core i5";15,60;"Vista Business";2519,16
+"29AI";"Asus";"Intel Core i5";17,30;"bez systemu";2584,06
+"30FI";"Fujitsu";"Intel Core i5";15,60;"Vista Business";3448,85
+"31SI";"Samsung";"Intel Core i3";15,40;"Windows 7 Professional";1930,66
+"32PI";"Philips";"Intel Core i5";15,60;"Windows 7 Professional";4062,21
+"33PI";"Philips";"Intel Core i5";15,60;"Windows 7 Home Premium";2477,16
+"34PI";"Philips";"Intel Core i7";15,60;"bez systemu";5021,50
+"35LA";"Lenovo";"AMD Phenom II";15,60;"Vista Home Premium";3029,13
+"36LA";"Lenovo";"AMD Sempron";17,30;"Windows 7 Home Premium";2397,00
+"37LI";"Lenovo";"Intel Core 2 Duo";15,60;"bez systemu";2902,79
+"38HA";"HP";"AMD Sempron";15,40;"Windows 7 Home Premium";1698,50
+"39PI";"Philips";"Intel Core i5";15,40;"Vista Business";2783,04
+"40AI";"Acer";"Intel Core i7";15,60;"Windows 7 Home Premium";4717,00
+"41FI";"Fujitsu";"Intel Core i3";15,40;"Vista Business";2385,23
+"42PI";"Philips";"Intel Core i7";15,60;"Vista Business";5085,00
+"43SI";"Samsung";"Intel Core 2 Duo";15,60;"Vista Home Premium";2027,22
+"44HI";"HP";"Intel Core 2 Duo";15,60;"Windows 7 Home Premium";2591,04
+"45HI";"HP";"Intel Core i3";15,60;"Windows 7 Home Premium";2233,01
+"46FA";"Fujitsu";"AMD Sempron";15,60;"Windows 7 Home Premium";1777,50
+"47HI";"HP";"Intel Core i7";15,60;"bez systemu";2946,50
+"48FA";"Fujitsu";"AMD Athlon";17,30;"Windows 7 Professional";2066,22
+"49SI";"Samsung";"Intel Core i5";15,40;"Vista Home Premium";2116,73
+"50FI";"Fujitsu";"Intel Core i7";15,60;"Vista Business";5400,00
+"51LA";"Lenovo";"AMD Athlon";17,30;"Windows 7 Home Premium";1812,26
+"52DA";"Dell";"AMD Sempron";15,40;"Vista Home Premium";1927,00
+"53FI";"Fujitsu";"Intel Core i7";15,60;"Vista Business";4185,00
+"54SA";"Samsung";"AMD Phenom II";17,30;"Windows 7 Home Premium";3346,80
+"55FI";"Fujitsu";"Intel Core i3";15,40;"Windows 7 Home Premium";2818,53
+"56LI";"Lenovo";"Intel Core 2 Duo";15,40;"Vista Business";2039,73
+"57AA";"Asus";"AMD Athlon";15,60;"bez systemu";2376,84
+"58PI";"Philips";"Intel Core 2 Duo";15,60;"Vista Business";2556,57
+"59AI";"Asus";"Intel Core i5";15,60;"Windows 7 Home Premium";2211,75
+"60FI";"Fujitsu";"Intel Core 2 Duo";17,30;"Vista Business";2136,75
+"61HA";"HP";"AMD Sempron";15,60;"Windows 7 Professional";2156,00
+"62SA";"Samsung";"AMD Athlon";15,40;"Vista Business";2919,73
+"63AI";"Acer";"Intel Core i7";17,30;"Vista Business";5566,00
+"64PA";"Philips";"AMD Sempron";15,60;"Vista Business";2599,00
+"65FI";"Fujitsu";"Intel Core i3";15,60;"Windows 7 Home Premium";2458,82
+"66LI";"Lenovo";"Intel Core 2 Duo";15,60;"Vista Business";2446,61
+"67FI";"Fujitsu";"Intel Core i5";15,40;"Windows 7 Professional";2469,69
+"68DA";"Dell";"AMD Sempron";17,30;"Vista Home Premium";2812,50
+"69AI";"Acer";"Intel Core i3";17,30;"Windows 7 Home Premium";2374,19
+"70LI";"Lenovo";"Intel Core i5";15,60;"Vista Business";2819,06
+"71SI";"Samsung";"Intel Core i5";15,60;"Windows 7 Home Premium";3450,33
+"72FI";"Fujitsu";"Intel Core 2 Duo";15,60;"Vista Business";3353,78
+"73FI";"Fujitsu";"Intel Core 2 Duo";15,60;"Vista Business";3051,39
+"74AI";"Asus";"Intel Core i7";15,60;"Vista Home Premium";5176,50
+"75AA";"Acer";"AMD Sempron";15,60;"Vista Business";1656,00
+"76SA";"Samsung";"AMD Athlon";15,40;"Windows 7 Home Premium";2046,59
+"77PI";"Philips";"Intel Core 2 Duo";15,60;"Vista Business";3491,23
+"78LA";"Lenovo";"AMD Sempron";15,60;"Vista Home Premium";2773,50
+"79DA";"Dell";"AMD Athlon";15,60;"Vista Home Premium";2496,39
+"80SI";"Samsung";"Intel Core i7";15,40;"Vista Business";5412,00
+"81PI";"Philips";"Intel Core i7";17,30;"Vista Business";4416,00
+"82LA";"Lenovo";"AMD Athlon";15,60;"bez systemu";1516,26
+"83SA";"Samsung";"AMD Sempron";15,60;"Vista Home Premium";1999,50
+"84AI";"Acer";"Intel Core i5";17,30;"Windows 7 Home Premium";3414,88
+"85AI";"Asus";"Intel Core i5";17,30;"Vista Home Premium";2713,08
+"86AI";"Asus";"Intel Core i7";17,30;"Vista Business";5198,00
+"87SA";"Samsung";"AMD Athlon";15,60;"Windows 7 Home Premium";2231,55
+"88SI";"Samsung";"Intel Core i7";15,60;"bez systemu";5187,50
+"89DA";"Dell";"AMD Athlon";17,30;"Windows 7 Professional";2092,71
+"90PA";"Philips";"AMD Athlon";15,40;"Windows 7 Professional";2816,35
+"91AI";"Acer";"Intel Core 2 Duo";17,30;"Windows 7 Professional";2759,08
+"92SI";"Samsung";"Intel Core i3";15,60;"Vista Business";2814,90
+"93DA";"Dell";"AMD Sempron";15,40;"Vista Business";2244,00
+"94SA";"Samsung";"AMD Sempron";15,60;"Windows 7 Professional";1837,50
+"95AI";"Acer";"Intel Core i5";15,60;"Vista Business";3778,74
+"96HA";"HP";"AMD Sempron";17,30;"Windows 7 Home Premium";2232,50
+"97FI";"Fujitsu";"Intel Core i5";15,60;"Vista Business";2219,26
+"98FA";"Fujitsu";"AMD Sempron";15,60;"Vista Business";2691,00
+"99SI";"Samsung";"Intel Core i5";17,30;"bez systemu";2034,26
