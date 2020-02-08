@@ -1,0 +1,33 @@
+ZAD 1
+F	435
+LF	50
+LP	4
+P	258
+
+ZAD 2
+Dodano: 801
+Ile jakich cyfr: 
+0	131
+1	82
+2	58
+3	63
+4	92
+5	71
+6	70
+7	82
+8	77
+9	75
+
+ZAD 3
+7 CYFROWY	9 CYFROWY	14 CYFROWY
+28		665		54
+
+ZAD 4
+	Nowe	Stare
+1	0	132
+2	6	20
+3	37	221
+4	4	145
+5	3	147
+
+wykres do zadania 4 znajduje sie w pliku Wykres.xslx
