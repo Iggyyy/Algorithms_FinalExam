@@ -1,0 +1,13 @@
+4.1
+W 191 minucie	
+POZIOM CIECZY	SUBSTANCJA
+4620		2694.38
+
+4.2
+Ile dolano wody	Stężenie
+14500.00	3.77%
+
+
+4.4
+MAKS
+28.07
