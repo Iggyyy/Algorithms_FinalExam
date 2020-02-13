@@ -1,0 +1,26 @@
+6.1
+
+Nazwisko Imie	 Nr_rej	Dob Cena
+Aabacka	 Nela	 WI1150	2   160
+Zgbacka	 Aaricia WI1126	11  880
+
+6.2
+
+Klasa	Liczba
+B	100
+C	48
+D	53
+
+6.3
+Imie	Nazwisko	Ile
+Ramzes	Hcbacki		5
+
+6.4
+Klasa	Aniolkowo	Manipulatowo	Nieszczerzyn	Piarowa	 Wielka Wola
+B	12		31		17		16	 25
+C	8		14		9		18	 11
+D	7		11		4		8	 7
+
+6.5
+Ilu nie wypoz
+72
