@@ -1,0 +1,44 @@
+6.1
+
+program				cena	liczba pak
+Word				120	4
+Publisher			170	3
+Writer				0	3
+Foxit Redactor for Office	1621	2
+
+6.2
+Calligra Suite
+DocuPDF
+gDOC
+GFI Security
+IBM Data Software
+OKAY
+Sales Partner
+SolarWinds Free System Management Tools
+SolarWinds Systems Management
+Subiekt
+
+6.3
+nazwa_pakietu			firma		Wartosc
+SolarWinds Systems Management	SolarWinds	57520
+MicroStation			Bentley		35736
+GFI Security			GFI Software	14811
+
+6.4
+Lightroom
+Audition
+Scribus
+Adobe PageMaker
+QuarkXPress
+
+6.5
+nazwa_pakietu			Ile darmowych 	Ile komercyjnych
+ApexSQL Developer		2		7
+DaemonTools Lite		1		8
+dbForge				1		5
+Expression Studio		1		3
+Foxit PDF Development Kits	1		2
+IconCool Software		1		4
+Logo-Gry			2		8
+MicroStation			1		4
+Sothink Suite			1		6
