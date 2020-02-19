@@ -72,8 +72,16 @@ void zad4_2()
         bool podobne = true;
         for(int i =0; i<10; i++)
         {
-            if(xcyfry[i] != ycyfry[i])
-                podobne = false;
+            if(xcyfry[i] >0)
+            {
+                if(ycyfry[i]==0)
+                    podobne = false;
+            }
+            if(ycyfry[i] >0)
+            {
+                if(xcyfry[i]==0)
+                    podobne = false;
+            }
         }
         if(podobne == true)
             licznik++;
