@@ -1,0 +1,33 @@
+4.1
+sty	26
+lut	22
+mar	30
+kwi	27
+maj	25
+cze	31
+lip	33
+sie	19
+wrz	29
+paü	32
+lis	28
+gru	29
+
+4.2
+duze miasto	97
+male miasto	20
+srednie miasto	59
+wies		24
+
+4.3
+MÍøyczyüni	480 619,00 z≥
+Kobiety		624 788,00 z≥
+
+4.4
+20-29	62
+30-39	56
+40-49	64
+50-59	56
+60-69	71
+70-79	22
+
+

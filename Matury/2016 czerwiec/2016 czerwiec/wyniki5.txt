@@ -1,0 +1,31 @@
+5.1
+Nazwisko	Imie	
+Badowski	Fryderyk	
+Barszcz		Tomasz	
+Makowicz	Magda	
+Nowak		Pawel	
+Nowakowski	Marek	
+Rybicka		Maria	
+Wysocka		Justyna	
+
+5.2
+Nazwa_przedmiotu	Ile_osob
+wiedza o spoleczenstwie	8
+
+5.3
+Imie	Nazwisko	liczba_p
+Marcin	Zalicki		3
+Maria	Bajda		3
+Joanna	Baranska	3
+
+5.4
+Nazwa_przedmiotu	
+jezyk lacinski i kultura antyczna	
+
+5.5
+Imie	Nazwisko	Nazwa_przedmiotu
+Marek	Nowakowski	informatyka
+
+5.6
+Mezczyzn
+180
