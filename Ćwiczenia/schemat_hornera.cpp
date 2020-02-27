@@ -20,9 +20,18 @@ int horner_iter(vector<int> wsp, int stopien, int x)
     return suma;
 }
 
+
+
+int _horner(vector<int> wsp, int stopien, int x)
+{
+    if(stopien == 0)
+        return wsp[0];
+    return x*_horner(wsp, stopien-1, x) + wsp[stopien];
+}
 int main()
 {
     cout<<horner({2,1,3}, 2,3)<<endl;
+    cout<<_horner({2,1,3}, 2,3)<<endl;
     cout<<horner_iter({2,1,3}, 2,3)<<endl;
 
 }
