@@ -1,0 +1,6 @@
+Zad 1:
+942
+Zad 2:
+Index: 811 Wartosc: 265
+Zad 3:
+index: 773 wart:15
