@@ -1,0 +1,43 @@
+ZAD 1
+Rok	Województwo	Kod strefy	Nazwa strefy		Kod stacji		Uœredniona wartoœæ	
+2017	ma³opolskie	PL1203		strefa ma³opolska	MpBrzeszKosc		64,3	
+
+ZAD 2
+Województwa		2016	2017
+
+œl¹skie			10740,5	16796,7
+ma³opolskie		9017,4	11945
+dolnoœl¹skie		6937,9	7818
+³ódzkie			5360,6	8848,3
+kujawsko-pomorskie	4397,6	5847,3
+mazowieckie		4099,7	5533
+pomorskie		4584,3	4164,5
+wielkopolskie		2995,3	4500,9
+podkarpackie		2757,5	4472,1
+œwiêtokrzyskie		1938,3	3371,6
+opolskie		2019,9	3230,6
+lubuskie		1973,5	2513,8
+zachodniopomorskie	1696,9	2254,2
+lubelskie		1411,1	2231,3
+warmiñsko-mazurskie	1564,1	1809,5
+podlaskie		1405	1094,6
+
+ZAD 3
+Wykres w pliku "wykres.xslx"
+
+ZAD 4
+Najlepsze powietrze ze œrednich
+Wojewodztwo:			pomorskie
+Liczba wyst. najlepszego:	11
+Najlepszy:			Bardzo Dobry
+
+Najgorsze powietrze z maksymalnych
+Wojewodztwo:			œl¹skie
+Liczba wyst. najgorszego:	32
+Najlepszy:			Bardzo z³y
+
+Zestawienia znajduj¹ siê w pliku "zanieczyszczenia.xslx" w skoroszycie "ZAD4"
+
+	
+
+
