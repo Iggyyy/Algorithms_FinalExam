@@ -1,0 +1,4 @@
+latarka 5 26
+biurko 35 98
+myszka 2 12
+kubek 8 15
