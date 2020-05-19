@@ -75,7 +75,7 @@ int hex_to_dec(string hex)
 
 int main()
 {
-    int n = 5;
+    int n = 16;
     cout<<conv_from_dec(n,2)<<endl;
     int x = 134501;
     cout<<conv_to_dec(x,2)<<endl;
