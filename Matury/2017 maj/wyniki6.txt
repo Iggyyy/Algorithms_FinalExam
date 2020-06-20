@@ -1,0 +1,9 @@
+ZAD 1
+Maks: 221
+Min: 7
+
+ZAD 2
+Ile wierszy usunac: 149
+
+ZAD 3
+Kontrastujacych: 753
